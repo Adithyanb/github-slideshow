@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Ok it's fine everything is gona be ok"
 Use the left arrow to go back!
